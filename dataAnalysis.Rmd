@@ -1,8 +1,9 @@
 Reproducible Research Project 2: Severe Weather Events Analysis in the United States
 ===================================================================
 All the documents and code used in this project can be found at
-[this] (https://github.com/muntasir2165/RepData_PeerAssessment2) Github repository. If the link does not work, please copy and paste the following url into your browser:
-https://github.com/muntasir2165/RepData_PeerAssessment2
+[this] (https://github.com/gredoy/RDATA_P-2)
+) Github repository. If the link does not work, please copy and paste the following url into your browser:
+https://github.com/gredoy/RDATA_P-2
 
 # Synopsis 
 In this analysis project, we explored the aftemath of severe weather events in the US over the past 60 years (1950-2011). We particularly consider the events that have caused the most harmful effects on human health (in terms of injury and fatatlity) and the greatest economic impact (interms of property and crop damage). After acquiring the data of about one million records, we pre-processed it by considering 28 well-defined major weather events and classifying the data accordingly. Any event that our search and match algorithm failed to identify was labelled as "other". Next, we counted the occurence of each event, the total injuries and fatalities it caused, and the resultant total property and crop damage. We summed up the injuries and fatalities for a quantitative estimate of the effect on human lives and also determined the total economic cost of the event my adding up the proerty and crop damage costs. Our analysis revealed that tornado was the most the devastating event accounting for about 13,049 injuries and human lives. As for economy, flood had the most effect amounting to about 4,768 Trillion Dollars. In addition, we also determined that the event with the highest frequency in the United States was storm with over 96,000 counts.
